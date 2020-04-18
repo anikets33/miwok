@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/activityBackground"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/numbersView">
+
+        <TextView
+            android:id="@+id/numbers"
+            style="@style/TextStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/numberView" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/familyMembersView">
+
+        <TextView
+            android:id="@+id/familyMembers"
+            style="@style/TextStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/familyMembersView" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorsView">
+
+        <TextView
+            android:id="@+id/colors"
+            style="@style/TextStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/colorsView" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/phrasesView">
+
+        <TextView
+            android:id="@+id/phrases"
+            style="@style/TextStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/phrasesView" />
+
+    </FrameLayout>
+
+</LinearLayout>

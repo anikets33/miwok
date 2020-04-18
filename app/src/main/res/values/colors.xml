@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4a312a</color>
+    <color name="colorPrimaryDark">#2f1d1a</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="activityBackground">#fff7da</color>
+    <color name="textColor">#ffffff</color>
+
+    <color name="numbersView">#fd8e09</color>
+    <color name="colorsView">#8800a0</color>
+    <color name="familyMembersView">#379237</color>
+    <color name="phrasesView">#16afca</color>
+
+</resources>

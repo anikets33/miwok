@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Miwok Clone</string>
+
+    <string name="numberView">Numbers</string>
+    <string name="colorsView">Colors</string>
+    <string name="familyMembersView">Family Members</string>
+    <string name="phrasesView">Phrases</string>
+    <string name="title_activity_numbers">NumbersActivity</string>
+    <string name="title_activity_colors_acitvity">ColorsAcitvity</string>
+    <string name="NumbersLabel">Numbers</string>
+    <string name="ColorsLabel">Colors</string>
+    <string name="PhrasesLabel">Phrases</string>
+    <string name="FamilyMembersLabel">Family Members</string>
+
+</resources>
